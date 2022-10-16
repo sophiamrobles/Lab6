@@ -4,6 +4,7 @@ overflow:hidden;
 float: left; 
 width: 100%; 
 position: relative; 
+display: block;
 }
 
 main-navbar ul {
@@ -30,7 +31,6 @@ main-navbar ul li a{
 }
 
 main-navbar ul li a:hover {
-    display: block;
     background-color: #000;
     text-decoration: underline overline;
 }
