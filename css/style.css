@@ -1,12 +1,8 @@
 main-navbar {
-background-color: blue;
-overflow:hidden;
-float: left; 
-width: 100%;  
-display: block;
-}
-
-navbar-container {
+    background-color: blue;
+    overflow:hidden;
+    float: left; 
+    width: 100%;  
     position: relative;
 }
 
@@ -17,6 +13,7 @@ main-navbar ul {
     position: relative;
     left: 50%;
     float: left;
+    display: block;
 }
 
 main-navbar ul li{
