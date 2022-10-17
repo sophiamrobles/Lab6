@@ -35,7 +35,7 @@
     text-decoration: underline overline;
 }
 
-#main-sidebar {
+#sidebar {
     position: fixed;
     right:0%;
     background-color: red;
@@ -43,12 +43,12 @@
     width: 20%;
 }
 
-#main-sidebar ul{
+#sidebar ul{
     list-style-type: none;
     text-align: center;
 }
 
-#main-sidebar ul li a{
+#sidebar ul li a{
     padding: 0;
     display: block;
     padding: 15px 0;
@@ -56,6 +56,6 @@
     text-decoration: none;
 }
 
-#main-sidebar ul li a:hover{
+#sidebar ul li a:hover{
     background-color: #000;
 }
