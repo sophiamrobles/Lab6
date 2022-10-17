@@ -56,6 +56,6 @@
     text-decoration: none;
 }
 
-main-sidebar ul li a:hover{
+#main-sidebar ul li a:hover{
     background-color: #000;
 }
