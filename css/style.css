@@ -5,7 +5,11 @@
     width: 100%;  
     position: relative;
 }
-
+#navbar-container {
+    width: 100%;
+    position: relative;
+    text-align: center;
+  }
 #main-navbar ul {
     list-style-type: none;
     margin: 0;
